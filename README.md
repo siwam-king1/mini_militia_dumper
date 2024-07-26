@@ -1,6 +1,6 @@
 # Mini Miltia Auto Dump lib and extract offset
 
-![Banner](images.jpg)
+![Banner](images.jpeg)
 
 Automate the process of dumping a specified library and extracting offsets using `radare2` and `rabin2` across multiple platforms.
 
