@@ -43,11 +43,14 @@ Contributions are welcome! Please fork the repository and submit pull requests.
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-##Note: Editing, using without credit, or modifying the code without permission is not allowed. Please ensure to respect the project's licensing terms and give proper attribution when using or sharing this code.
+## Note: Editing, using without credit, or modifying the code without permission is not allowed. Please ensure to respect the project's licensing terms and give proper attribution when using or sharing this code.
 
 ## Credits
 
 - Developed by [siwamking1](https://github.com/siwam-king1)
+- Telegram - https://t.me/siwam_king1
+- Youtube - https://www.youtube.com/@siwamking1
+- Instagram - https://www.instagram.com/_siwamking1_/?utm_medium=copy_link
 
 ---
 
