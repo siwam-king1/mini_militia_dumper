@@ -19,7 +19,7 @@ Automate the process of dumping a specified library and extracting offsets using
 2. **Run the Script**:
    - Clone the repository:
      ```
-     git clone https://github.com/siwamking1/mini_militia_dumper
+     git clone https://github.com/siwam-king1/mini_militia_dumper
      cd mini_militia_dumper
      python sk.py
      ```
