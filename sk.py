@@ -1,4 +1,3 @@
-
 # SIWAMKING1
 
 def xor_decrypt(data, key):
