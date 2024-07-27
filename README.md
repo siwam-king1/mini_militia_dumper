@@ -21,7 +21,7 @@ Automate the process of dumping a specified library and extracting offsets using
 2. **Run the Script**:
    - Clone the repository:
      ```
-     git clone https://github.com/siwamking1/mini_militia_mod_maker.git
+     git clone https://github.com/siwamking1/mini_militia_dumper.git
      cd mini_militia_mod_maker
      python sk.py
      ```
